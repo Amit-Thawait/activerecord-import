@@ -1,3 +1,8 @@
+Link associated with fix for oracle :-
+
+https://github.com/zdennis/activerecord-import/pull/23
+
+
 # activerecord-import
 
 activerecord-import is a library for bulk inserting data using ActiveRecord. 
