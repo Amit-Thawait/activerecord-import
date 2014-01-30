@@ -27,3 +27,7 @@ Zach Dennis (zach.dennis@gmail.com)
 * Thibaud Guillaume-Gentil
 * Mark Van Holstyn 
 * Victor Costan
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Amit-Thawait/activerecord-import/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
